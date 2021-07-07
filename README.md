@@ -1,7 +1,5 @@
 # Netflix Landing Page Clone
 
-### This project incorporates html, css, and javascript.
-### Code was pulled from the original Netflix page along with other elements I've learned.
+This project incorporates html, css, and javascript.
+Code was pulled from the original Netflix page along with other elements I've learned.
 
-#### Below is an example of the landing page display
-![Landing page](https://i.ibb.co/VLSVgv8/landing-page-1.png)
